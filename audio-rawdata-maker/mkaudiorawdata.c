@@ -1,3 +1,7 @@
+/*
+	gcc mkaudiorawdata.c -o mkrawdata
+*/
+
 #include <unistd.h>
 #include <fcntl.h>
 #include <stdio.h>
