@@ -1,0 +1,2 @@
+Host *
+  ProxyCommand corkscrew 136.16.48.167 83 %h %p ~/.ssh/proxyauth
